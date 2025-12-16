@@ -1,0 +1,212 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Smartphone Samsung Galaxy S23",
+      "description": "Smartphone haut de gamme avec écran AMOLED",
+      "price": 8999,
+      "category": "Smartphone",
+      "stock": 25,
+      "rating": 4
+    },
+    {
+      "id": "2",
+      "name": "TV LED 55\" LG UHD",
+      "description": "Télévision UHD 4K avec résolution 4K",
+      "price": 5999,
+      "category": "TV",
+      "stock": 12,
+      "rating": 2
+    },
+    {
+      "id": "3",
+      "name": "Laptop HP Pavilion 15",
+      "description": "Ordinateur portable i5 12ème génération",
+      "price": 7499,
+      "category": "Informatique",
+      "stock": 18,
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "name": "AirPods Pro 2",
+      "description": "Écouteurs sans fil avec ANC",
+      "price": 2499,
+      "category": "Audio",
+      "stock": 40,
+      "rating": 3
+    },
+    {
+      "id": "5",
+      "name": "Montre Connectée Huawei Watch GT4",
+      "description": "Montre intelligente avec GPS",
+      "price": 1999,
+      "category": "Wearables",
+      "stock": 30,
+      "rating": 2
+    },
+    {
+      "id": "6",
+      "name": "Canon EOS 250D",
+      "description": "Appareil photo DSLR 24MP",
+      "price": 8499,
+      "category": "Photo",
+      "stock": 8,
+      "rating": 4
+    },
+    {
+      "id": "7",
+      "name": "PlayStation 5",
+      "description": "Console nouvelle génération",
+      "price": 7999,
+      "category": "Gaming",
+      "stock": 15,
+      "rating": 5
+    },
+    {
+      "id": "8",
+      "name": "Xbox Series X",
+      "description": "Console haute performance 4K",
+      "price": 7499,
+      "category": "Gaming",
+      "stock": 10,
+      "rating": 2
+    },
+    {
+      "id": "9",
+      "name": "Casque Gaming Logitech G435",
+      "description": "Casque Bluetooth ultra léger",
+      "price": 999,
+      "category": "Audio",
+      "stock": 50,
+      "rating": 4
+    },
+    {
+      "id": "10",
+      "name": "Clavier Mécanique Redragon K552",
+      "description": "Clavier RGB switches bleus",
+      "price": 499,
+      "category": "Informatique",
+      "stock": 60,
+      "rating": 3
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Ahmed",
+      "email": "ahmed@example.com",
+      "phone": "0612345678"
+    },
+    {
+      "id": "2",
+      "name": "Sara",
+      "email": "sara@example.com",
+      "phone": "0612345679"
+    },
+    {
+      "id": "3",
+      "name": "Youssef",
+      "email": "youssef@example.com",
+      "phone": "0612345680"
+    },
+    {
+      "id": "4",
+      "name": "Fatima",
+      "email": "fatima@example.com",
+      "phone": "0612345681"
+    },
+    {
+      "id": "5",
+      "name": "Omar",
+      "email": "omar@example.com",
+      "phone": "0612345682"
+    },
+    {
+      "id": "6",
+      "name": "Imane",
+      "email": "imane@example.com",
+      "phone": "0612345683"
+    },
+    {
+      "id": "7",
+      "name": "Hassan",
+      "email": "hassan@example.com",
+      "phone": "0612345684"
+    },
+    {
+      "id": "8",
+      "name": "Lina",
+      "email": "lina@example.com",
+      "phone": "0612345685"
+    },
+    {
+      "id": "9",
+      "name": "Reda",
+      "email": "reda@example.com",
+      "phone": "0612345686"
+    },
+    {
+      "id": "10",
+      "name": "Amina",
+      "email": "amina@example.com",
+      "phone": "0612345687"
+    }
+  ],
+  "sales": [
+    {
+      "id": "1",
+      "date": "2025-12-11",
+      "customerId": 1,
+      "productId": 2,
+      "quantite": 2,
+      "paymentMethod": "Carte",
+      "status": "Livré"
+    },
+    {
+      "id": "2",
+      "date": "2025-12-10",
+      "customerId": 3,
+      "productId": 1,
+      "quantite": 1,
+      "paymentMethod": "Espèces",
+      "status": "Livré"
+    },
+    {
+      "id": "3",
+      "date": "2025-12-09",
+      "customerId": 5,
+      "productId": 4,
+      "quantite": 3,
+      "paymentMethod": "Carte",
+      "status": "En cours"
+    },
+    {
+      "id": "4",
+      "date": "2025-12-08",
+      "customerId": 2,
+      "productId": 7,
+      "quantite": 1,
+      "paymentMethod": "Carte",
+      "status": "Livré"
+    },
+    {
+      "id": "5",
+      "date": "2025-12-07",
+      "customerId": 6,
+      "productId": 5,
+      "quantite": 1,
+      "paymentMethod": "Espèces",
+      "status": "Annulé"
+    },
+    {
+      "id": "6",
+      "date": "2025-12-06",
+      "customerId": 8,
+      "productId": 3,
+      "quantite": 2,
+      "paymentMethod": "PayPal",
+      "status": "Livré"
+    }
+  ]
+}
