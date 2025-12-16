@@ -48,5 +48,5 @@ You must have the following installed on your system:
 Clone the project from GitHub and navigate into the directory:
 
 ```bash
-git clone 
+git clone https://github.com/abdeeel1/ElectroShop-Dashboard.git
 cd Dashbord-ElectroShop
