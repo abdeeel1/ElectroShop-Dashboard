@@ -26,8 +26,8 @@ This project is built using the following modern web technologies:
 
 | Component | Status | URL |
 | :--- | :--- | :--- |
-| **Frontend** (Dashboard) | Deployed on Netlify | `electroshopma.netlify.app]` |
-| **Backend** (JSON Server API) | Deployed on Railway | `[json-api-backend-production.up.railway.app]` |
+| **Frontend** (Dashboard) | Deployed on Netlify | `electroshopma.netlify.app` |
+| **Backend** (JSON Server API) | Deployed on Railway | `json-api-backend-production.up.railway.app` |
 
 ---
 
